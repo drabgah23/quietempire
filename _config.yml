@@ -1,5 +1,3 @@
 title: Quiet Empire
 description: A logbook of the silent system builder.
-baseurl: ""
-url: "https://quietempire.github.io"
-theme: minima
+theme: jekyll-theme-minimal
