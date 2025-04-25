@@ -31,7 +31,7 @@ Today, I know that these ideas were more like a calming pill for my brain. So, I
 
 At the end of the year I generated multiple revenue streams and a whopping monthly revenue of $200. What a disaster.
 
-## What do to next?
+## Whatt to do next?
 Retrospectively, it was the best that could have happened. It forced me to sit down and think about what I really want to do. And I had one huge advantage. I tried tons of things and already knew what I liked.
 
 One thing was clear: I wanted to "something" in crypto. So I dug deeper and looked at what fired me up and what made me throw up the last months:
