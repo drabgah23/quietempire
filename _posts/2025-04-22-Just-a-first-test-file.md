@@ -5,6 +5,7 @@ tags:
   - execution
   - mindset
 share: "true"
+layout: post
 ---
 ## ⏱️ Day Check-In
 
