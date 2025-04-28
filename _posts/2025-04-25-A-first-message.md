@@ -1,5 +1,5 @@
 ---
-title: How it all began...
+title: 'Empire Log #1 — ” The Quiet Start"'
 layout: post
 date: 2025-04-25
 share: "true"
