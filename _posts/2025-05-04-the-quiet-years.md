@@ -1,5 +1,5 @@
 ---
-title: The Quiet Years
+title: "Empire Log #3 — The Quiet Years"
 date: 2025-05-04
 share: "true"
 layout: post
